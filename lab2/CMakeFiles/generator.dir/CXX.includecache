@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Hostrider/CLionProjects/parallels/lab2/experiments.h
+thread
+-
+omp.h
+-
+iomanip
+-
+
+/mnt/c/Users/Hostrider/CLionProjects/parallels/lab2/generator.h
+vector
+-
+thread
+-
+
+/mnt/c/Users/Hostrider/CLionProjects/parallels/lab2/source.cpp
+iostream
+-
+experiments.h
+/mnt/c/Users/Hostrider/CLionProjects/parallels/lab2/experiments.h
+generator.h
+/mnt/c/Users/Hostrider/CLionProjects/parallels/lab2/generator.h
+
+/mnt/c/Users/Hostrider/CLionProjects/parallels/lab2/thread_num.cpp
+thread
+-
+atomic
+-
+omp.h
+-
+

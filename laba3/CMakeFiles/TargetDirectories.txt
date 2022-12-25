@@ -1,0 +1,3 @@
+/mnt/c/Users/Hostrider/CLionProjects/parallels/laba3/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Hostrider/CLionProjects/parallels/laba3/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Hostrider/CLionProjects/parallels/laba3/CMakeFiles/laba3_parallel.dir

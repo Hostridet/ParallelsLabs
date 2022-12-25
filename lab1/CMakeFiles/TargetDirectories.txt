@@ -1,0 +1,3 @@
+/mnt/c/Users/Hostrider/CLionProjects/lab1parra/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Hostrider/CLionProjects/lab1parra/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Hostrider/CLionProjects/lab1parra/CMakeFiles/integral.dir

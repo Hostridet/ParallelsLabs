@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Hostrider/CLionProjects/parallels/laba3/main.cpp
+iostream
+-
+chrono
+-
+omp.h
+-
+cstring
+-
+vector
+-
+thread
+-
+algorithm
+-
+memory
+-
+mutex
+-
+chrono
+-
+thread
+-
+vector
+-
+iostream
+-
+omp.h
+-
+future
+-
+

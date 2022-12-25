@@ -1,0 +1,3 @@
+/mnt/c/Users/Hostrider/CLionProjects/parallels/lab2/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Hostrider/CLionProjects/parallels/lab2/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Hostrider/CLionProjects/parallels/lab2/CMakeFiles/generator.dir
